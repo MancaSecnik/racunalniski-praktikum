@@ -1,1 +1,1 @@
-*Naslov
+# Računalniški praktikum
